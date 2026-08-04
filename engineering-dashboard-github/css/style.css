@@ -1,0 +1,7 @@
+body{font-family:Arial,sans-serif;background:#eef2f7;margin:0}
+header{background:#0b5ed7;color:#fff;padding:18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:15px;padding:20px}
+.card{background:#fff;padding:16px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.1)}
+table{width:100%;border-collapse:collapse}
+td,th{border:1px solid #ddd;padding:8px}
+.red{color:#c00;font-weight:bold}
